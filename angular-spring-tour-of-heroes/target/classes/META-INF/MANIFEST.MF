@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: angular-spring-tour-of-heroes
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: bali-win7
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/angular-spri
+ ng-tour-of-heroes/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
